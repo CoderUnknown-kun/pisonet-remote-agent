@@ -1,0 +1,5 @@
+psutil
+firebase-admin
+flask
+mss
+pillow
