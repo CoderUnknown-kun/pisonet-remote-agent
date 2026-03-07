@@ -1,6 +1,6 @@
 # Node Remote Agent
 
-A lightweight remote management agent designed for controlling and monitoring pisonet computers.
+A lightweight remote management agent for monitoring and controlling distributed nodes in a device fleet.
 
 ## Features
 
