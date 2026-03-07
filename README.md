@@ -1,4 +1,4 @@
-# Pisonet Remote Agent
+# Node Remote Agent
 
 A lightweight remote management agent designed for controlling and monitoring pisonet computers.
 
